@@ -1,0 +1,6 @@
+pandas 
+gspread
+python-dotenv
+flask
+flask_cors
+oauth2client
